@@ -1,0 +1,27 @@
+
+# <type>: <subject>
+
+# <type> list:
+#   feat     (new feature for the user, not a new feature for build script)
+#   fix      (bug fix for the user, not a fix to a build script)
+#   docs     (changes to the documentation)
+#   style    (formatting, missing semi colons, etc; no production code change)
+#   refactor (refactoring production code, eg. renaming a variable)
+#   test     (adding missing tests, refactoring tests; no production code change)
+#   chore    (updating grunt tasks etc; no production code change)
+
+# <subject> line:
+# - Limit to 50 characters
+# - Capitalize the subject line
+# - Do not end with a period
+# - Use the imperative mood in the subject line
+# - Separate subject from body with a blank line
+# - Use the body to explain what and why vs. how
+
+# Example:
+# feat: Add beta sequence
+# More detailed explanatory text, if necessary. Wrap it to about 72 characters or so.
+# Further paragraphs come after blank lines.
+#
+# - Bullet points are okay, too
+# - Use a hyphen or asterisk for the bullet, followed by a single space, with blank lines in between
